@@ -28,6 +28,8 @@ Built with modern tools and best practices for performance and scalability.
 
 ### Main Interface
 ![Drawing Canvas](screenshots/s1.png)
+
+
 *Interactive drawing canvas with real-time predictions*
 
 ---
