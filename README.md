@@ -318,8 +318,8 @@ See the [LICENSE](LICENSE) file for details.
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/Hallous-Yassine)
-- LinkedIn: [Your Profile](https://www.linkedin.com/in/yassine-hallous)
+- GitHub: [@Hallous-Yassine](https://github.com/Hallous-Yassine)
+- LinkedIn: [yassine-hallous](https://www.linkedin.com/in/yassine-hallous)
 
 ---
 
