@@ -27,16 +27,8 @@ Built with modern tools and best practices for performance and scalability.
 ## 🖼️ Demo
 
 ### Main Interface
-![Drawing Canvas](screenshots/main-interface.png)
+![Drawing Canvas](screenshots/s1.png)
 *Interactive drawing canvas with real-time predictions*
-
-### Prediction Results
-![Prediction Result](screenshots/prediction-result.png)
-*Confidence scores for each digit (0-9)*
-
-### Model Training
-![Training Progress](screenshots/training.png)
-*CNN training with 99%+ accuracy achieved*
 
 ---
 
